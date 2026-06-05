@@ -1,0 +1,70 @@
+Reddit r/nyu - Awful Quality of Education at Tandon
+Source: https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/
+Original Post
+The courses at Tandon have been disappointing. The quality of instruction is lacking, the course
+content feels poorly structured, and the overall design of the classes doesn't reflect the tuition fee of
+$31,000 per semester. As a Computer Engineering sophomore at Tandon, I'm finding most of my
+classes to be frustratingly subpar. It's making me question whether I want to continue my studies here
+at NYU. Some of my professors seem disengaged, as if they don't care about the classes they're
+teaching. The grading feels unfair, and when I try to address these concerns, I often receive no
+response or a dismissive reply. I was at ASU before transferring to NYU and I think the quality of
+education was much, much better there.
+Comments
+testfreak377:
+Same not impressed with the education.
+geger42 (recent CS grad):
+It always felt like NYU only cared about Tandon because they needed an engineering school to boost
+their overall rankings. The CS masters is a crazy cash cow where 90% seem to be full tuition
+international students only there to get a visa. They say they've been dumping money into facilities and
+hiring, but in my experience half the school was run by grumpy old tenured professors from Polytech. I
+experienced some smart professors that were great teachers, but a lot more that sucked. Education
+quality is still very mediocre (but varies a lot).
+Not_Jonesy (OP, on the grading):
+This is mostly specific to my OOP course. I was penalized for using a concept in my assignment that
+was covered before the submission date in both the lecture and recitation. As a result, my grade
+dropped from an A to an F. I emailed my professor; the response stated it was assumed we should only
+use topics taught prior to the submission date. I provided a screenshot showing the concept was taught
+before the due date, but the professor has not responded since. I also lost points on another
+assignment for using iterators, which I double-checked I didn't use. There was no rubric or clear
+guidelines indicating what was allowed.
+slurpenial:
+I do find like maybe 30% of professors to not be that good at their jobs at NYU, so if you stay you just
+gotta hope to get lucky.
+fhjhvjj:
+Double check your work, read the syllabus, give it a few days and send a follow up email or talk in
+person. If you don't get an adequate response, contact a department head or dean/advisor for next
+steps.
+General_Prize_5457:
+Just wait until you take embedded systems with Campisi. The instructors seem to get better as you take
+the more difficult courses. That was one of my favorite classes and professors of all time.
+meghrathod:
+Agree, Campisi is amazing.
+Savings_Society_89:
+Make your case to Student Advocacy with all of your evidence. That is one useful advantage of taking
+classes at Tandon.
+cringus_blorgon:
+I'm guessing somebody doesn't like John Sterling. He's a dick, but he's a great teacher; a lot of
+professors here are like that.
+Chick-Yuan (CompE senior):
+What Tandon really sucks at is a 'beginner guide' for new students. Trust Rate My Professor (go for
+those above 4 and stay away from those below 3), leverage the late add/drop deadline to audit a ton of
+classes to find a professor whose teaching style you like, and ask friends for recommendations. There
+are poorly-publicized resources like the tutoring center and professors' weekend QnA sessions. On
+tenure: it has little correlation with teaching - it's about research quality and funding.
+AWEsoMe-Cat1231:
+Transfer to CAS lol. I left Tandon for the same reason.
+Key_Advance2551:
+Companies do come to recruit, I know some people with Pfizer internships. It's just that the entire
+experience is really bad for your mental health.
+Etermelody (ECE):
+I'm taking Sterling's OOP and am completely new to C++ - got 2 Fs in 5 homeworks already. He's a
+nice person only if he likes you, otherwise he's rubbish. The Friday lab is also a disaster. Suggestion:
+google 'Tandon cs2124' for former students' GitHub solutions, and use ChatGPT to check your
+homework after you finish it.
+Not_Jonesy (OP):
+The Friday lab is a complete disaster; the professor just sits at his desk without contributing. The issue
+isn't C++ - I understand the basics. The real problem is that my work isn't graded fairly relative to the
+effort I'm putting in.
+ThePositiveVegetable:
+There are extraordinary students and worthy programs here (HSRN VIP, NYU video lab, AI4science,
+honors math). For CS, Sterling and Aronov are good. Either accept the truth and thrive, or transfer.

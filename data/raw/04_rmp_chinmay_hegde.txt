@@ -1,0 +1,14 @@
+Chinmay Hegde - RateMyProfessors
+Source: https://www.ratemyprofessors.com/professor/2822036
+Department: Computer Engineering | NYU Tandon School of Engineering
+Overall Rating: 2.0/5 Would Take Again: 37% Difficulty: 2.9/5
+Courses: CS-GY6923
+Student Reviews
+"The course isn't well designed. The projects has limited academic or research value."
+"VERY UNCLEAR GRADING CRITERIA. Professor and his TAs consistently deducts 1-2 points from
+your final grade for requirements that were never listed in assignment sheet."
+"Grading felt too harsh. In our second project, we showed three data points in a table but lost 2 marks
+for no graph."
+"The professor creates a grading system that pits students against each other. This discourages
+collaboration."
+"The project lacks clear grading standards and offers little research value."

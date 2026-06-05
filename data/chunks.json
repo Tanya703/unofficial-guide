@@ -1,0 +1,706 @@
+[
+  {
+    "text": "Professor Amit Patel (NYU Tandon, Computer Engineering). Department: Computer Engineering | NYU Tandon School of Engineering Overall Rating: 3.7/5 Would Take Again: 70% Difficulty: 2.5/5 Courses: CS6513, CS6803",
+    "metadata": {
+      "source": "01_rmp_amit_patel",
+      "title": "Amit Patel - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2574177",
+      "type": "ratemyprofessors",
+      "professor": "Amit Patel",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Professor Amit Patel student review: \"Extremely strict about attendance, being five minutes late is counted as absence.\"",
+    "metadata": {
+      "source": "01_rmp_amit_patel",
+      "title": "Amit Patel - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2574177",
+      "type": "ratemyprofessors",
+      "professor": "Amit Patel",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Professor Amit Patel student review: \"He is a little old school in the way he mandates attendance and timeliness for grad students.\"",
+    "metadata": {
+      "source": "01_rmp_amit_patel",
+      "title": "Amit Patel - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2574177",
+      "type": "ratemyprofessors",
+      "professor": "Amit Patel",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Professor Amit Patel student review: \"Excellent teaching style, makes it easy to understand and remember concepts.\"",
+    "metadata": {
+      "source": "01_rmp_amit_patel",
+      "title": "Amit Patel - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2574177",
+      "type": "ratemyprofessors",
+      "professor": "Amit Patel",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Professor Amit Patel student review: \"He includes a lot of stories while teaching which makes me understand as well as remember concepts.\"",
+    "metadata": {
+      "source": "01_rmp_amit_patel",
+      "title": "Amit Patel - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2574177",
+      "type": "ratemyprofessors",
+      "professor": "Amit Patel",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Professor Amit Patel student review: \"He purposely sent an email instructing us to attend; otherwise, points would be deducted.\"",
+    "metadata": {
+      "source": "01_rmp_amit_patel",
+      "title": "Amit Patel - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2574177",
+      "type": "ratemyprofessors",
+      "professor": "Amit Patel",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Professor Fraida Fund (NYU Tandon, Computer Engineering). Department: Computer Engineering | NYU Tandon School of Engineering Overall Rating: 3.7/5 Would Take Again: 61% Difficulty: 4.2/5 Courses: ECEGY9183, ECEGY6143",
+    "metadata": {
+      "source": "02_rmp_fraida_fund",
+      "title": "Fraida Fund - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2793957",
+      "type": "ratemyprofessors",
+      "professor": "Fraida Fund",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Professor Fraida Fund student review: \"Really comprehensive but a lot of work.\"",
+    "metadata": {
+      "source": "02_rmp_fraida_fund",
+      "title": "Fraida Fund - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2793957",
+      "type": "ratemyprofessors",
+      "professor": "Fraida Fund",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Professor Fraida Fund student review: \"Amazing lectures. Lots of homework. Lecture heavy.\"",
+    "metadata": {
+      "source": "02_rmp_fraida_fund",
+      "title": "Fraida Fund - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2793957",
+      "type": "ratemyprofessors",
+      "professor": "Fraida Fund",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Professor Fraida Fund student review: \"Although the workload is heavy and requires a lot of time, this course is excellent.\"",
+    "metadata": {
+      "source": "02_rmp_fraida_fund",
+      "title": "Fraida Fund - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2793957",
+      "type": "ratemyprofessors",
+      "professor": "Fraida Fund",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Professor Fraida Fund student review: \"RUN! DON'T TAKE IT UNLESS YOU ARE A SENIOR SDE AND HAVE LOTS OF TIME.\"",
+    "metadata": {
+      "source": "02_rmp_fraida_fund",
+      "title": "Fraida Fund - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2793957",
+      "type": "ratemyprofessors",
+      "professor": "Fraida Fund",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Professor Fraida Fund student review: \"Extreme workload for hw, labs and very difficult exams where you have to juggle.\"",
+    "metadata": {
+      "source": "02_rmp_fraida_fund",
+      "title": "Fraida Fund - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2793957",
+      "type": "ratemyprofessors",
+      "professor": "Fraida Fund",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Professor Azeez Bhavnagarwala (NYU Tandon, Computer Engineering). Department: Computer Engineering | NYU Tandon School of Engineering Overall Rating: 3.3/5 Would Take Again: 55% Difficulty: 2.5/5 Courses: VLSI, ECE6913",
+    "metadata": {
+      "source": "03_rmp_azeez_bhavnagarwala",
+      "title": "Azeez Bhavnagarwala - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2609063",
+      "type": "ratemyprofessors",
+      "professor": "Azeez Bhavnagarwala",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Professor Azeez Bhavnagarwala student review: \"Cracks jokes. Very kind TAs willing to help. Easy class. Exams content are not what is said it would be.\"",
+    "metadata": {
+      "source": "03_rmp_azeez_bhavnagarwala",
+      "title": "Azeez Bhavnagarwala - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2609063",
+      "type": "ratemyprofessors",
+      "professor": "Azeez Bhavnagarwala",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Professor Azeez Bhavnagarwala student review: \"Prof. Azeez is supportive both inside and outside the classroom. He is always approachable and willing to help students succeed.\"",
+    "metadata": {
+      "source": "03_rmp_azeez_bhavnagarwala",
+      "title": "Azeez Bhavnagarwala - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2609063",
+      "type": "ratemyprofessors",
+      "professor": "Azeez Bhavnagarwala",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Professor Azeez Bhavnagarwala student review: \"Really disorganized and not a very engaging teaching style. Content is comprehensive however.\"",
+    "metadata": {
+      "source": "03_rmp_azeez_bhavnagarwala",
+      "title": "Azeez Bhavnagarwala - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2609063",
+      "type": "ratemyprofessors",
+      "professor": "Azeez Bhavnagarwala",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Professor Azeez Bhavnagarwala student review: \"This professor is unresponsive and his class is pretty disorganized. He frequently posts course material late.\"",
+    "metadata": {
+      "source": "03_rmp_azeez_bhavnagarwala",
+      "title": "Azeez Bhavnagarwala - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2609063",
+      "type": "ratemyprofessors",
+      "professor": "Azeez Bhavnagarwala",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Professor Azeez Bhavnagarwala student review: \"Be prepared to learn by yourself if you take his class. Awful in teaching. Only understand the first lecture.\"",
+    "metadata": {
+      "source": "03_rmp_azeez_bhavnagarwala",
+      "title": "Azeez Bhavnagarwala - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2609063",
+      "type": "ratemyprofessors",
+      "professor": "Azeez Bhavnagarwala",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Professor Chinmay Hegde (NYU Tandon, Computer Engineering). Department: Computer Engineering | NYU Tandon School of Engineering Overall Rating: 2.0/5 Would Take Again: 37% Difficulty: 2.9/5 Courses: CS-GY6923",
+    "metadata": {
+      "source": "04_rmp_chinmay_hegde",
+      "title": "Chinmay Hegde - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2822036",
+      "type": "ratemyprofessors",
+      "professor": "Chinmay Hegde",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Professor Chinmay Hegde student review: \"The course isn't well designed. The projects has limited academic or research value.\"",
+    "metadata": {
+      "source": "04_rmp_chinmay_hegde",
+      "title": "Chinmay Hegde - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2822036",
+      "type": "ratemyprofessors",
+      "professor": "Chinmay Hegde",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Professor Chinmay Hegde student review: \"VERY UNCLEAR GRADING CRITERIA. Professor and his TAs consistently deducts 1-2 points from your final grade for requirements that were never listed in assignment sheet.\"",
+    "metadata": {
+      "source": "04_rmp_chinmay_hegde",
+      "title": "Chinmay Hegde - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2822036",
+      "type": "ratemyprofessors",
+      "professor": "Chinmay Hegde",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Professor Chinmay Hegde student review: \"Grading felt too harsh. In our second project, we showed three data points in a table but lost 2 marks for no graph.\"",
+    "metadata": {
+      "source": "04_rmp_chinmay_hegde",
+      "title": "Chinmay Hegde - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2822036",
+      "type": "ratemyprofessors",
+      "professor": "Chinmay Hegde",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Professor Chinmay Hegde student review: \"The professor creates a grading system that pits students against each other. This discourages collaboration.\"",
+    "metadata": {
+      "source": "04_rmp_chinmay_hegde",
+      "title": "Chinmay Hegde - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2822036",
+      "type": "ratemyprofessors",
+      "professor": "Chinmay Hegde",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Professor Chinmay Hegde student review: \"The project lacks clear grading standards and offers little research value.\"",
+    "metadata": {
+      "source": "04_rmp_chinmay_hegde",
+      "title": "Chinmay Hegde - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2822036",
+      "type": "ratemyprofessors",
+      "professor": "Chinmay Hegde",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Professor Yi Fang (NYU Tandon, Computer Engineering). Department: Computer Engineering | NYU Tandon School of Engineering Overall Rating: 1.0/5 Would Take Again: 0% Difficulty: 2.3/5 Courses: ENGRUH3332",
+    "metadata": {
+      "source": "05_rmp_yi_fang",
+      "title": "Yi Fang - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/3107171",
+      "type": "ratemyprofessors",
+      "professor": "Yi Fang",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Professor Yi Fang student review: \"I am not sure if he knows what he is teaching. No guidance.\" (Tags: Hilarious, Test heavy)",
+    "metadata": {
+      "source": "05_rmp_yi_fang",
+      "title": "Yi Fang - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/3107171",
+      "type": "ratemyprofessors",
+      "professor": "Yi Fang",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Professor Yi Fang student review: \"worst professor ever\"",
+    "metadata": {
+      "source": "05_rmp_yi_fang",
+      "title": "Yi Fang - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/3107171",
+      "type": "ratemyprofessors",
+      "professor": "Yi Fang",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Professor Yi Fang student review: \"He is a ChatGPT power user and has no other personality other than that. His exam questions were direct screenshots of his conversation with ChatGPT.\"",
+    "metadata": {
+      "source": "05_rmp_yi_fang",
+      "title": "Yi Fang - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/3107171",
+      "type": "ratemyprofessors",
+      "professor": "Yi Fang",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Professor Nina Krikorian (NYU Tandon, Computer Engineering). Department: Computer Engineering | NYU Tandon School of Engineering Overall Rating: 5.0/5 Would Take Again: 100% Difficulty: 1.0/5 Courses: ECE4001",
+    "metadata": {
+      "source": "06_rmp_nina_krikorian",
+      "title": "Nina Krikorian - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2346919",
+      "type": "ratemyprofessors",
+      "professor": "Nina Krikorian",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Professor Nina Krikorian student review: \"Take her course.\"",
+    "metadata": {
+      "source": "06_rmp_nina_krikorian",
+      "title": "Nina Krikorian - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2346919",
+      "type": "ratemyprofessors",
+      "professor": "Nina Krikorian",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Professor Nina Krikorian student review: \"If you do the required work, you'll get an A for sure. She even gives her number, and you can text her whenever, and she'll reply asap.\"",
+    "metadata": {
+      "source": "06_rmp_nina_krikorian",
+      "title": "Nina Krikorian - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2346919",
+      "type": "ratemyprofessors",
+      "professor": "Nina Krikorian",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Professor Nina Krikorian student review: \"You don't need to attend lectures unless there's a group presentation, but you'll definitely enjoy her lectures!\"",
+    "metadata": {
+      "source": "06_rmp_nina_krikorian",
+      "title": "Nina Krikorian - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2346919",
+      "type": "ratemyprofessors",
+      "professor": "Nina Krikorian",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Professor Nina Krikorian student review: \"Best professor at Tandon!\"",
+    "metadata": {
+      "source": "06_rmp_nina_krikorian",
+      "title": "Nina Krikorian - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2346919",
+      "type": "ratemyprofessors",
+      "professor": "Nina Krikorian",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Professor Nina Krikorian student review: \"Super Chilled!!\"",
+    "metadata": {
+      "source": "06_rmp_nina_krikorian",
+      "title": "Nina Krikorian - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2346919",
+      "type": "ratemyprofessors",
+      "professor": "Nina Krikorian",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Professor Mike Wilkes (NYU Tandon, Computer Engineering). Department: Computer Engineering | NYU Tandon School of Engineering Overall Rating: 5.0/5 Would Take Again: 100% Difficulty: 2.0/5 Courses: CSGY6803",
+    "metadata": {
+      "source": "07_rmp_mike_wilkes",
+      "title": "Mike Wilkes - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2700917",
+      "type": "ratemyprofessors",
+      "professor": "Mike Wilkes",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Professor Mike Wilkes student review: \"The professor is so knowledgeable of information security aspects and have amazing advices for different situations that you may face during your career.\" Tags: Inspirational, Group projects, Amazing lectures",
+    "metadata": {
+      "source": "07_rmp_mike_wilkes",
+      "title": "Mike Wilkes - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/2700917",
+      "type": "ratemyprofessors",
+      "professor": "Mike Wilkes",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Professor Garrett Rose (NYU Tandon, Computer Engineering). Department: Computer Engineering | NYU Tandon School of Engineering Overall Rating: 4.0/5 Would Take Again: N/A Difficulty: 3.0/5 Courses: EL547, EL5473",
+    "metadata": {
+      "source": "08_rmp_garrett_rose",
+      "title": "Garrett Rose - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/1103208",
+      "type": "ratemyprofessors",
+      "professor": "Garrett Rose",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Professor Garrett Rose student review: \"Lectures are unbearably long and monotonous.\" (Quality 2.5, Difficulty 3.0)",
+    "metadata": {
+      "source": "08_rmp_garrett_rose",
+      "title": "Garrett Rose - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/1103208",
+      "type": "ratemyprofessors",
+      "professor": "Garrett Rose",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Professor Garrett Rose student review: \"Very good at introducing the concepts in class. Speaks very clear, and doesn't rush his lectures. Gives students opportunity to participate in class. Although, he is some what emotionless, kind of like a robot at times. Final project is very very very time consuming!\" (Quality 4.5, Difficulty 2.0)",
+    "metadata": {
+      "source": "08_rmp_garrett_rose",
+      "title": "Garrett Rose - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/1103208",
+      "type": "ratemyprofessors",
+      "professor": "Garrett Rose",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Professor Garrett Rose student review: \"Good-looking prof, young but with enough teaching experience, likes to give his students pop quiz (closed book). Proj is hard and time consuming, however, you can learn a lot from it. He is good.\" (Quality 5.0, Difficulty 4.0)",
+    "metadata": {
+      "source": "08_rmp_garrett_rose",
+      "title": "Garrett Rose - RateMyProfessors",
+      "url": "https://www.ratemyprofessors.com/professor/1103208",
+      "type": "ratemyprofessors",
+      "professor": "Garrett Rose",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Original post: The courses at Tandon have been disappointing. The quality of instruction is lacking, the course content feels poorly structured, and the overall design of the classes doesn't reflect the tuition fee of $31,000 per semester. As a Computer Engineering sophomore at Tandon, I'm finding most of my classes to be frustratingly subpar. It's making me question whether I want to continue my studies here at NYU. Some of my professors seem disengaged, as if they don't care about the classes they're teaching. The grading feels unfair, and when I try to address these concerns, I often receive no response or a dismissive reply. I was at ASU before transferring to NYU and I think the quality of education was much, much better there.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by testfreak377: Same not impressed with the education.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by geger42 (recent CS grad): It always felt like NYU only cared about Tandon because they needed an engineering school to boost their overall rankings. The CS masters is a crazy cash cow where 90% seem to be full tuition international students only there to get a visa. They say they've been dumping money into facilities and hiring, but in my experience half the school was run by grumpy old tenured professors from Polytech. I experienced some smart professors that were great teachers, but a lot more that sucked. Education quality is still very mediocre (but varies a lot).",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by Not_Jonesy (OP, on the grading): This is mostly specific to my OOP course. I was penalized for using a concept in my assignment that was covered before the submission date in both the lecture and recitation. As a result, my grade dropped from an A to an F. I emailed my professor; the response stated it was assumed we should only use topics taught prior to the submission date. I provided a screenshot showing the concept was taught before the due date, but the professor has not responded since. I also lost points on another assignment for using iterators, which I double-checked I didn't use. There was no rubric or clear guidelines indicating what was allowed.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by slurpenial: I do find like maybe 30% of professors to not be that good at their jobs at NYU, so if you stay you just gotta hope to get lucky.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by fhjhvjj: Double check your work, read the syllabus, give it a few days and send a follow up email or talk in person. If you don't get an adequate response, contact a department head or dean/advisor for next steps.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by General_Prize_5457: Just wait until you take embedded systems with Campisi. The instructors seem to get better as you take the more difficult courses. That was one of my favorite classes and professors of all time.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by meghrathod: Agree, Campisi is amazing.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by Savings_Society_89: Make your case to Student Advocacy with all of your evidence. That is one useful advantage of taking classes at Tandon.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by cringus_blorgon: I'm guessing somebody doesn't like John Sterling. He's a dick, but he's a great teacher; a lot of professors here are like that.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by Chick-Yuan (CompE senior): What Tandon really sucks at is a 'beginner guide' for new students. Trust Rate My Professor (go for those above 4 and stay away from those below 3), leverage the late add/drop deadline to audit a ton of classes to find a professor whose teaching style you like, and ask friends for recommendations. There are poorly-publicized resources like the tutoring center and professors' weekend QnA sessions. On tenure: it has little correlation with teaching - it's about research quality and funding.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by AWEsoMe-Cat1231: Transfer to CAS lol. I left Tandon for the same reason.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 11
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by Key_Advance2551: Companies do come to recruit, I know some people with Pfizer internships. It's just that the entire experience is really bad for your mental health.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 12
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by Etermelody (ECE): I'm taking Sterling's OOP and am completely new to C++ - got 2 Fs in 5 homeworks already. He's a nice person only if he likes you, otherwise he's rubbish. The Friday lab is also a disaster. Suggestion: google 'Tandon cs2124' for former students' GitHub solutions, and use ChatGPT to check your homework after you finish it.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 13
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by Not_Jonesy (OP): The Friday lab is a complete disaster; the professor just sits at his desk without contributing. The issue isn't C++ - I understand the basics. The real problem is that my work isn't graded fairly relative to the effort I'm putting in.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 14
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Awful Quality of Education at Tandon - Comment by ThePositiveVegetable: There are extraordinary students and worthy programs here (HSRN VIP, NYU video lab, AI4science, honors math). For CS, Sterling and Aronov are good. Either accept the truth and thrive, or transfer.",
+    "metadata": {
+      "source": "09_reddit_awful_quality_of_education_tandon",
+      "title": "Reddit r/nyu - Awful Quality of Education at Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/1g1ypkm/awful_quality_of_education_at_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 15
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Worries About Tandon - Original post: I'll be attending Tandon in the Fall and while I feel comfortable with my major, I feel uncertain about Tandon in general. My worries are: (1) The quality of professors will be mediocre - I'm worried they won't care or can't teach well. (2) The quality of the material and curriculum will be mediocre - I feel students learning math or science at CAS will be given a deeper understanding than at Tandon. (3) The likelihood of getting an internship at an amazing company (Google, SpaceX, Apple, etc.) will be very low. (4) People think Tandon is mediocre and that will hinder me getting a job. After going through old Reddit posts I read bad things that worry me. I'm hoping someone can refute some or all of these.",
+    "metadata": {
+      "source": "10_reddit_worries_about_tandon",
+      "title": "Reddit r/nyu - Worries About Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/g6xa4t/worries_about_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Worries About Tandon - Comment by OmoideAeternum: I'm not a Tandon student but have several friends there. Tandon has been improving ever since Poly was encompassed by NYU; older posts don't capture how much has changed. NYU is dedicating a big portion of its budget to the Metrotech campus. Professor quality varies - check course evaluations and RateMyProfessor. Curriculum is pretty standard; it may not be as theory-based as CAS but fulfills an engineering curriculum. Tandon has its own networking event and big companies scout it (even Microsoft). Going to Tandon won't hinder you - the NYU name will get your foot in the door.",
+    "metadata": {
+      "source": "10_reddit_worries_about_tandon",
+      "title": "Reddit r/nyu - Worries About Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/g6xa4t/worries_about_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Worries About Tandon - Comment by DangerousEmployment4 (Tandon student): When Polytechnic was bought by NYU, they kept 50% of the professors, so half aren't really 'NYU' caliber. The only really good profs are in the math department, but they're hired through Courant. A lot of profs have an 'if I'm not getting paid to do this I won't' personality. Point 2 is incorrect - Tandon students aren't allowed to take CAS classes while CAS kids can enroll at Tandon, because Tandon's rigor is harder (physics is taught to Mech E and Aero majors so it goes more in depth). I got an internship at one of the companies you named after 2 WEEKS of school as a freshman. People don't think Tandon is mediocre - most employers don't even know it exists; the NYU name does wonders.",
+    "metadata": {
+      "source": "10_reddit_worries_about_tandon",
+      "title": "Reddit r/nyu - Worries About Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/g6xa4t/worries_about_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Worries About Tandon - Comment by fancyeggbeater: I disagree with point 2. You're allowed to take 16 credits outside of Tandon, and if you declare a cross-school minor like a CAS minor, that 16-credit limit no longer applies.",
+    "metadata": {
+      "source": "10_reddit_worries_about_tandon",
+      "title": "Reddit r/nyu - Worries About Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/g6xa4t/worries_about_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Worries About Tandon - Comment by GreenOrdinary (Tandon student): There are good and bad professors everywhere. If you're eager to learn and reach out to the professor, you get a lot more out of the course. The math and science are catered to engineering majors so they're pretty in depth. I completely disagree on internships - I and many others have gotten internships at Google, Facebook, Apple, etc. This year I got offers from three large companies as an average student. Companies see NYU; they won't care that you went to Tandon over CAS. I loved my experience here.",
+    "metadata": {
+      "source": "10_reddit_worries_about_tandon",
+      "title": "Reddit r/nyu - Worries About Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/g6xa4t/worries_about_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Worries About Tandon - Comment by throwaway_tan (grad student): Generally agree with others, but choose carefully with some professors, especially the older ones. The new hires seem generally good, but some older professors are some of the worst I've ever had.",
+    "metadata": {
+      "source": "10_reddit_worries_about_tandon",
+      "title": "Reddit r/nyu - Worries About Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/g6xa4t/worries_about_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Worries About Tandon - Comment by tandonthrowaway22: Getting better with new hires. Tandon is actually harder. I have friends who got internships with MSFT. Employers just see NYU's name. You need to ask yourself if you're okay not going to Washington Square and getting a different experience than the rest of NYU.",
+    "metadata": {
+      "source": "10_reddit_worries_about_tandon",
+      "title": "Reddit r/nyu - Worries About Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/g6xa4t/worries_about_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Reddit r/nyu - Worries About Tandon - Comment by CollarlessWave: There are good professors - you'll have to ask around and go on RateMyProfessor. I hear the physics and CBE departments are awful, but CS is OK. Math was easier for me at Tandon vs CAS because Tandon emphasizes application over theory. Internships depend mostly on you. Tandon is a little mediocre - the quality of students and professors at CAS is higher - but it's what you make of it.",
+    "metadata": {
+      "source": "10_reddit_worries_about_tandon",
+      "title": "Reddit r/nyu - Worries About Tandon",
+      "url": "https://www.reddit.com/r/nyu/comments/g6xa4t/worries_about_tandon/",
+      "type": "reddit",
+      "professor": null,
+      "chunk_index": 7
+    }
+  }
+]
