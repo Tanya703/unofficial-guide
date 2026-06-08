@@ -1,13 +1,20 @@
-sentence-transformers==3.4.1
-chromadb>=0.6.0
+# Install:  python -m pip install -r requirements.txt
+# (run inside the project's .venv so packages land in the venv, not global Python)
+
+# Embedding + vector store (Milestone 4)
+sentence-transformers==5.5.1
+chromadb==1.5.9
+
+# Generation + interface (Milestone 5)
 groq==0.15.0
+gradio==6.16.0
 python-dotenv==1.0.1
 
-# Query interface — add whichever you use for Milestone 5:
-# gradio>=6.9.0
-# streamlit>=1.40.0
-
-# Document ingestion — documents/ folder contains .pdf files:
-pdfplumber==0.11.4
-
+# Document ingestion — documents/ folder contains .pdf files (Milestone 3)
+pdfplumber==0.11.9
 # Recursive chunking is implemented directly in ingest.py (no extra dependency).
+
+# Note (Windows): sentence-transformers pulls in torch + onnxruntime, whose native
+# DLLs need the Microsoft Visual C++ 2015-2022 Redistributable (x64) >= 14.40.
+# An older runtime causes "WinError 1114: DLL initialization routine failed".
+# Fix once, system-wide:  winget install --id Microsoft.VCRedist.2015+.x64

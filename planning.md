@@ -13,7 +13,7 @@
 
 An unofficial guide to student experiences with Computer Engineering professors and courses at NYU Tandon, built from crowd-sourced reviews (RateMyProfessors) and student threads (Reddit r/nyu).
 
-This knowledge is valuable because official channels tell you *what* a course covers, not *what it's like to take it* — the real workload, grading fairness, organization, and teaching quality. It's hard to find officially because NYU doesn't publish candid evaluations, and the honest signal is scattered across dozens of separate review pages and long Reddit threads. A RAG system collapses that into one searchable, attributable answer.
+This knowledge is valuable because official channels tell you *what* a course covers, not *what it's like to take it* — the real workload, grading fairness, organization, and teaching quality. It's hard to find officially because NYU doesn't publish candid evaluations, and the honest signal is scattered across separate review pages and long Reddit threads. A RAG system collapses that into one searchable, attributable answer.
 
 ---
 
